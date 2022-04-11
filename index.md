@@ -1,3 +1,10 @@
+<script>
+document.cookie = "session=test GDPR"; 
+document.cookie = "favorite_task=collect Data"; 
+functionalertCookie() { alert(document.cookie); } </script>
+<body> Bine aivenit la lab <button onclick="alertCookie()">Show cookies</button></body>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LucutSimona/Cookies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
